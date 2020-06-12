@@ -20,6 +20,7 @@ try:
 	tiempo = int(sys.argv[1])
 	def motor_on(pin):
 		GPIO.output(pin, GPIO.HIGH)  # ENCIENDE BOMBA DE AGUA
+
 	def motor_off(pin):
 		GPIO.output(pin, GPIO.LOW)  # PARA BOMA DE AGUA
 	if __name__ == '__main__':
