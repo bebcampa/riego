@@ -2,5 +2,5 @@
 
 #Diseño y esquema de conexión
 ![](AGUA_diseño.png)![](AGUA_esquemático.png)
-Run script
+#Run script
 ![](run.gif)
