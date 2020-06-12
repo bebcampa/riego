@@ -1,6 +1,6 @@
 # Riego planta Python
 
 #Diseño y esquema de conexión
-![](AGUA_diseño.gif)![](AGUA_esquemático.gif)
+![](AGUA_diseño.png)![](AGUA_esquemático.png)
 Run script
 ![](run.gif)
